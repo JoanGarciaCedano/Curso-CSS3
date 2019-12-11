@@ -47,3 +47,26 @@ h2[title ~= "cabecera"]{
 h2[lang |= "es"]{
 	color: blue;
 }
+
+div{
+	font-size: 50px;
+}
+
+article{
+	font-size: 10px;
+}
+
+/*
+
+	Colición de estilos
+
+	1.- css del navegador.
+	2.- css del usuario.
+	3.- archivos css enlazados en el orden añadido se aplica el ultimo.
+	4.- propiedades que se heredan.
+	5.- propiedades propias del elemento.
+	6.- clases asignadas, y en el mismo orden de asignación.
+	7.- identificador
+	8.- !important
+
+*/
