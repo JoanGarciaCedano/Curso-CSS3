@@ -1,0 +1,33 @@
+header h2,
+h3{
+	color: green;
+}
+/*
+p{
+	color: red;
+}
+
+p#azul{
+	color: blue;
+}
+
+.prueba{
+	color: orange;
+}
+
+.grande{
+	font-size: 20px;
+}*/
+
+/*elemento1 + elemento2 -> todo parrafo que tenga un parrafo atrás*/
+/*p+p{
+	font-weight: bolder;
+}*/
+
+article > p{
+	color:red;
+}
+
+p ~ p{
+	color:green;
+}
