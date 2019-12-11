@@ -3,6 +3,12 @@
 	propiedad : valor;
 	propiedad : valor;
 	propiedad : valor;
+
+	-webkit- Google chrome, safari, navegador android
+	-moz- Firefox
+	-o- Opera
+	-ms- Internet Explorer, Edge
+	-khtml- Konqueror
 }*/
 
 header{
