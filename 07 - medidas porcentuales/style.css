@@ -42,9 +42,22 @@ p.mm{
 }
 
 p.pt{
-	font-size: 30	pt;
+	font-size: 30pt;
 }
 
 p.pc{
 	font-size: 5pc;
+}
+
+div.fija{
+	height: 100px;
+	width: 100px;
+	background: red;
+}
+
+div.porcentual{
+	height: 100px;
+	width: 50%;
+	background: green;
+	margin: 5%;
 }
