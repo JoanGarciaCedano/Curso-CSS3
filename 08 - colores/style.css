@@ -3,6 +3,7 @@ div{
 	height: 100px;
 	border: 1px solid black;
 	margin: 20px;
+	display: inline-block;
 }
 
 .reservadas{
@@ -15,4 +16,8 @@ div{
 
 .hex{
 	background: #643005;
+}
+
+.porcentual{
+	background: rgb(80%, 0%, 0%);
 }
