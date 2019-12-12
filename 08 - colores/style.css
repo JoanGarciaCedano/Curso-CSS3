@@ -25,3 +25,11 @@ div{
 .hsl{
 	background: hsl(240, 100%, 50%);
 }
+
+.hsla{
+	background: hsla(240, 100%, 50%, 0.5);
+}
+
+.rgba{
+	background: rgba(127, 51, 191, 0.5);
+}
