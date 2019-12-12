@@ -8,3 +8,7 @@ div{
 .reservadas{
 	background: lime;
 }
+
+.luzRGB{
+	background: rgb(200, 0, 250);
+}
